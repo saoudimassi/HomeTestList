@@ -8,7 +8,7 @@ a parameter "Size" and returns a list of sub-lists, where each sub-list has the 
 * partition ([1,2,3,4,5], 3) returns: [[1,2,3], [4,5]]
 * partition ([1,2,3,4,5], 1) returns: [[1], [2], [3], [4], [5]]
 
-Junit test allow to verify this implementation.
+Junit test allows to verify this implementation.
 
 ## Getting Started
 
