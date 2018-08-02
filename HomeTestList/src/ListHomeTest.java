@@ -41,7 +41,7 @@ public class ListHomeTest {
 			outerList.add(subList);
 		}
 		
-	    if(rest != 0)
+	        if(rest != 0)
 		{
 			ArrayList subList = new ArrayList<Integer> (list.subList(peerSizeList, sizeList));
 			outerList.add(subList);
@@ -50,17 +50,16 @@ public class ListHomeTest {
 	}
 	
 	public void printList(ArrayList list) {
-		 System.out.print(list);
-    }
+	     System.out.print(list);
+        }
 	
     public ArrayList<Integer> listFill(int nbElements)
     {
     	ArrayList<Integer> list = new ArrayList<Integer>();
     	for(int i=0; i < nbElements; i += 1)
-		{
-			list.add(i);   
-		}
-    	
+	{
+	     list.add(i);   
+	}
     	return list;
     }
 }
