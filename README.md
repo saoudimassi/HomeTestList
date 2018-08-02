@@ -12,8 +12,8 @@ Junit test allows to verify this implementation.
 
 ## Getting Started
 
-This function get the partionning of different lists with peer or odd size and also give the sub lists with peer or odd size.
-This function manage the different exception cases such as the negative size given on parameter. 
+This function gets the partionning of different lists with peer or odd size and also gives the sub lists with peer or odd size.
+This function manages the different exception cases such as the negative size given on parameter. 
 
 ## Acknowledgments
 
